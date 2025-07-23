@@ -1,5 +1,6 @@
 import feedparser
 import re
+from datetime import datetime
 
 README_PATH = "README.md"
 
@@ -25,11 +26,22 @@ latest_photo = photo_feed.entries[0]
 photo_link = latest_photo.link
 photo_title = latest_photo.title
 photo_content = latest_photo.get("content", [{}])[0].get("value", "")
+photo_date = latest_photo.published_parsed
 
+# Format date as mm/dd/yyyy
+formatted_date = datetime(*photo_date[:6]).strftime("%m/%d/%Y")
+
+# Extract image
 img_match = re.search(r'<img[^>]+src="([^"]+)"', photo_content)
 photo_img_url = img_match.group(1) if img_match else ""
 
-photo_md = f"[![{photo_title}]({photo_img_url})]({photo_link})"
+# Markdown + HTML image block
+photo_md = (
+  f'<a href="{photo_link}">'
+  f'<img src="{photo_img_url}" alt="{photo_title}" '
+  f'style="width:100%; aspect-ratio: 4 / 3; border-radius:5px; object-fit:cover;" /></a>\n'
+  f'<p><a href="{photo_link}">{photo_title} – {formatted_date}</a></p>'
+)
 
 # === Process blog feed ===
 blog_feed = feedparser.parse(BLOG_FEED_URL)
@@ -43,7 +55,7 @@ for entry in blog_items:
 with open(README_PATH, "r", encoding="utf-8") as f:
   readme = f.read()
 
-readme = update_section(readme, PHOTO_START, PHOTO_END, photo_md)
+readme = update_section(readme, PHOTO_START, PHOTO_END, photo_md.strip())
 readme = update_section(readme, BLOG_START, BLOG_END, blog_md.strip())
 
 with open(README_PATH, "w", encoding="utf-8") as f:
