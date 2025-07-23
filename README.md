@@ -4,15 +4,18 @@ I'm also a founding member of the [Webmaster Backup Alliance](https://webmasterb
 
 <table><tr><td valign="top" width="50%">
 
-### Latest Photo
+### 📷 Latest Photo
 <!-- photo starts -->
 
 <!-- photo ends -->
 
 </td><td valign="top" width="50%">
 
+### 👨‍💻 Latest Posts
 <!-- blog starts -->
 Blog content to go here...
 <!-- blog ends -->
+
+More on [mwender.com](https://mwender.com).
 
 </td></table>
