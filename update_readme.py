@@ -25,21 +25,25 @@ photo_feed = feedparser.parse(PHOTO_FEED_URL)
 latest_photo = photo_feed.entries[0]
 photo_link = latest_photo.link
 photo_title = latest_photo.title
-photo_content = latest_photo.get("content", [{}])[0].get("value", "")
 photo_date = latest_photo.published_parsed
-
-# Format date as mm/dd/yyyy
 formatted_date = datetime(*photo_date[:6]).strftime("%m/%d/%Y")
 
-# Extract image
-img_match = re.search(r'<img[^>]+src="([^"]+)"', photo_content)
-photo_img_url = img_match.group(1) if img_match else ""
+# Try to get 800x600 from <media:content>
+photo_img_url = ""
+if "media_content" in latest_photo and len(latest_photo.media_content) > 0:
+  photo_img_url = latest_photo.media_content[0].get("url", "")
 
-# Markdown + HTML image block
+# Fallback to scraping <img> tag from content:encoded
+if not photo_img_url:
+  content_html = latest_photo.get("content", [{}])[0].get("value", "")
+  img_match = re.search(r'<img[^>]+src="([^"]+)"', content_html)
+  if img_match:
+    photo_img_url = img_match.group(1)
+
+# Markdown-compatible retina display (800x600 image at 400x300 size)
 photo_md = (
   f'<a href="{photo_link}">'
-  f'<img src="{photo_img_url}" alt="{photo_title}" '
-  f'style="width:100%; aspect-ratio: 4 / 3; border-radius:5px; object-fit:cover;" /></a>\n'
+  f'<img src="{photo_img_url}" alt="{photo_title}" width="400" height="300" /></a>\n'
   f'<p><a href="{photo_link}">{photo_title} – {formatted_date}</a></p>'
 )
 
