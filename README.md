@@ -5,10 +5,14 @@ I'm also a founding member of the [Webmaster Backup Alliance](https://webmasterb
 <table><tr><td valign="top" width="50%">
 
 ### Latest Photo
-<!-- PHOTO_START -->
+<!-- photo starts -->
 
-<!-- PHOTO_END -->
+<!-- photo ends -->
 
 </td><td valign="top" width="50%">
+
+<!-- blog starts -->
+Blog content to go here...
+<!-- blog ends -->
 
 </td></table>

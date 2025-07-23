@@ -3,8 +3,8 @@ import re
 
 FEED_URL = "https://photos.mwender.com/feed/"
 README_PATH = "README.md"
-START_MARKER = "<!-- PHOTO_START -->"
-END_MARKER = "<!-- PHOTO_END -->"
+START_MARKER = "<!-- photo starts -->"
+END_MARKER = "<!-- photo ends -->"
 
 feed = feedparser.parse(FEED_URL)
 latest = feed.entries[0]
