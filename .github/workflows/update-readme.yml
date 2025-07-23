@@ -2,7 +2,7 @@ name: Update README with Latest Photo and Blog Posts
 
 on:
   schedule:
-    - cron: '0 * * * *'  # every hour
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -23,16 +23,36 @@ jobs:
         run: pip install feedparser
 
       - name: Run update script
-        run: python update_readme.py
+        run: |
+          echo "Running Python update script..."
+          python update_readme.py
+          echo "Script completed."
+
+      - name: Check git status
+        run: |
+          echo "::group::Git Status"
+          git status
+          echo "::endgroup::"
+
+          echo "::group::Git Diff"
+          git diff
+          echo "::endgroup::"
+
+          echo "::group::Git Diff (cached)"
+          git diff --cached
+          echo "::endgroup::"
 
       - name: Commit and push if changes
         run: |
+          set -x
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
+
           if git diff --cached --quiet; then
-            echo "No changes to commit"
+            echo "✅ No changes to commit."
           else
+            echo "🔁 Committing and pushing changes..."
             git commit -m "Update README with latest photo and blog posts"
             git push
           fi
