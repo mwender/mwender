@@ -6,14 +6,18 @@ I'm also a founding member of the [Webmaster Backup Alliance](https://webmasterb
 
 ### 📷 Latest Photo
 <!-- photo starts -->
-
+[![Nature’s Candy](https://photos.mwender.com/wp-content/uploads/2025/07/img_8807-768x1024.jpg)](https://photos.mwender.com/natures-candy/)
 <!-- photo ends -->
 
 </td><td valign="top" width="50%">
 
 ### 👨‍💻 Latest Posts
 <!-- blog starts -->
-Blog content to go here...
+- [Links of Interest, Issue 30](https://mwender.com/links-of-interest-issue-30/)
+- [Time it takes a hacker to brute force your password? [2025]](https://mwender.com/time-it-takes-a-hacker-to-brute-force-your-password-2025/)
+- [ChatGPT’s Summary of me: Michael – The Digital Craftsman in Hiking Boots](https://mwender.com/chatgpts-summary-of-me-michael-the-digital-craftsman-in-hiking-boots/)
+- [My 1980’s Action Figure](https://mwender.com/my-1980s-action-figure/)
+- [🔗 Self-Updating Github Profile](https://mwender.com/%f0%9f%94%97-self-updating-github-profile/)
 <!-- blog ends -->
 
 More on [mwender.com](https://mwender.com).
