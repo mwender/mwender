@@ -14,7 +14,11 @@ I'm also a founding member of the [Webmaster Backup Alliance](https://webmasterb
 
 ### 👨‍💻 Latest Posts
 <!-- blog starts -->
-
+- [Vibe Coding + BA in English = 💜💯](https://mwender.com/vibe-coding-ba-in-english/)
+- [Some Social Updates](https://mwender.com/some-social-updates/)
+- [Links of Interest, Issue 30](https://mwender.com/links-of-interest-issue-30/)
+- [Time it takes a hacker to brute force your password? [2025]](https://mwender.com/time-it-takes-a-hacker-to-brute-force-your-password-2025/)
+- [ChatGPT’s Summary of me: Michael – The Digital Craftsman in Hiking Boots](https://mwender.com/chatgpts-summary-of-me-michael-the-digital-craftsman-in-hiking-boots/)
 <!-- blog ends -->
 
 More on [mwender.com](https://mwender.com).
