@@ -6,8 +6,8 @@ I'm also a founding member of the [Webmaster Backup Alliance](https://webmasterb
 
 ### 📷 Latest Photo
 <!-- photo starts -->
-<a href="https://photos.mwender.com/a-happy-50th/"><img src="https://photos.mwender.com/wp-content/uploads/2025/07/img_8836-800x600.jpg" alt="A Happy 50th" width="400" height="300" /></a>
-<p><a href="https://photos.mwender.com/a-happy-50th/">A Happy 50th – 07/29/2025</a></p>
+<a href="https://photos.mwender.com/lydias-map/"><img src="https://photos.mwender.com/wp-content/uploads/2025/07/lydias-map_1600x1200-800x600.jpg" alt="Lydia’s Map" width="400" height="300" /></a>
+<p><a href="https://photos.mwender.com/lydias-map/">Lydia’s Map – 07/30/2025</a></p>
 <!-- photo ends -->
 
 </td><td valign="top" width="50%">
