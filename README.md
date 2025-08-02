@@ -6,8 +6,8 @@ I'm also a founding member of the [Webmaster Backup Alliance](https://webmasterb
 
 ### 📷 Latest Photo
 <!-- photo starts -->
-<a href="https://photos.mwender.com/epic-hike/"><img src="https://photos.mwender.com/wp-content/uploads/2025/08/img_8880-800x600.jpg" alt="Epic Hike" width="400" height="300" /></a>
-<p><a href="https://photos.mwender.com/epic-hike/">Epic Hike – 08/01/2025</a></p>
+<a href="https://photos.mwender.com/newfound-gap-to-the-jump-off/"><img src="https://photos.mwender.com/wp-content/uploads/2025/08/IMG_6375-800x600.jpeg" alt="Newfound Gap to The Jump Off" width="400" height="300" /></a>
+<p><a href="https://photos.mwender.com/newfound-gap-to-the-jump-off/">Newfound Gap to The Jump Off – 08/02/2025</a></p>
 <!-- photo ends -->
 
 </td><td valign="top" width="50%">
