@@ -14,11 +14,11 @@ I'm also a founding member of the [Webmaster Backup Alliance](https://webmasterb
 
 ### 👨‍💻 Latest Posts
 <!-- blog starts -->
+- [How to Hard-Refresh Your Browser (2025 Edition)](https://mwender.com/how-to-hard-refresh-your-browser-2025-edition/)
 - [LocalDev Switcher Plugin](https://mwender.com/localdev-switcher-plugin/)
 - [Vibe Coding + BA in English = 💜💯](https://mwender.com/vibe-coding-ba-in-english/)
 - [Some Social Updates](https://mwender.com/some-social-updates/)
 - [Links of Interest, Issue 30](https://mwender.com/links-of-interest-issue-30/)
-- [Time it takes a hacker to brute force your password? [2025]](https://mwender.com/time-it-takes-a-hacker-to-brute-force-your-password-2025/)
 <!-- blog ends -->
 
 More on [mwender.com](https://mwender.com).
