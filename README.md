@@ -6,7 +6,7 @@ I'm also a founding member of the [Webmaster Backup Alliance](https://webmasterb
 
 ### 📷 Latest Photo
 <!-- photo starts -->
-<a href="https://photos.mwender.com/would-you-believe/"><img src="https://photos.mwender.com/wp-content/uploads/2025/09/img_9025-800x600.jpg" alt="Would you believe…" width="400" height="300" /></a>
+<a href="https://photos.mwender.com/would-you-believe/"><img src="https://photos.mwender.com/app/uploads/2025/09/img_9025-800x600.jpg" alt="Would you believe…" width="400" height="300" /></a>
 <p><a href="https://photos.mwender.com/would-you-believe/">Would you believe… – 09/09/2025</a></p>
 <!-- photo ends -->
 
