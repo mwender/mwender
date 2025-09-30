@@ -6,8 +6,8 @@ I'm also a founding member of the [Webmaster Backup Alliance](https://webmasterb
 
 ### 📷 Latest Photo
 <!-- photo starts -->
-<a href="https://photos.mwender.com/post/just-call-me-mr-maytag/"><img src="https://photos.mwender.com/app/uploads/2025/09/IMG_0281-800x600.jpeg" alt="Just call me Mr. Maytag" width="400" height="300" /></a>
-<p><a href="https://photos.mwender.com/post/just-call-me-mr-maytag/">Just call me Mr. Maytag – 09/28/2025</a></p>
+<a href="https://photos.mwender.com/post/new-homeowners/"><img src="https://photos.mwender.com/app/uploads/2025/09/3128100613783711824-789x600.jpg" alt="New Homeowners" width="400" height="300" /></a>
+<p><a href="https://photos.mwender.com/post/new-homeowners/">New Homeowners – 09/30/2025</a></p>
 <!-- photo ends -->
 
 </td><td valign="top" width="50%">
