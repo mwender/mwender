@@ -14,11 +14,11 @@ I'm also a founding member of the [Webmaster Backup Alliance](https://webmasterb
 
 ### 👨‍💻 Latest Posts
 <!-- blog starts -->
+- [When WordPress says “nope” to ~500,000 images](https://mwender.com/when-wordpress-says-nope-to-500000-images/)
 - [How to Name Your Files (2025 Edition)](https://mwender.com/how-to-name-your-files-2025-edition/)
 - [How to Hard-Refresh Your Browser (2025 Edition)](https://mwender.com/how-to-hard-refresh-your-browser-2025-edition/)
 - [LocalDev Switcher Plugin](https://mwender.com/localdev-switcher-plugin/)
 - [Vibe Coding + BA in English = 💜💯](https://mwender.com/vibe-coding-ba-in-english/)
-- [Some Social Updates](https://mwender.com/some-social-updates/)
 <!-- blog ends -->
 
 More on [mwender.com](https://mwender.com).
