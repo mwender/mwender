@@ -6,8 +6,8 @@ I'm also a founding member of the [Webmaster Backup Alliance](https://webmasterb
 
 ### 📷 Latest Photo
 <!-- photo starts -->
-<a href="https://photos.mwender.com/post/sea-pines-shell-ring/"><img src="https://photos.mwender.com/app/uploads/2025/10/img_9208-800x600.jpg" alt="Sea Pines Shell Ring" width="400" height="300" /></a>
-<p><a href="https://photos.mwender.com/post/sea-pines-shell-ring/">Sea Pines Shell Ring – 10/14/2025</a></p>
+<a href="https://photos.mwender.com/post/dole-whip-secret/"><img src="https://photos.mwender.com/app/uploads/2025/10/img_9250-800x600.jpg" alt="Dole Whip Secret" width="400" height="300" /></a>
+<p><a href="https://photos.mwender.com/post/dole-whip-secret/">Dole Whip Secret – 10/15/2025</a></p>
 <!-- photo ends -->
 
 </td><td valign="top" width="50%">
