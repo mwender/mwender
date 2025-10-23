@@ -14,11 +14,11 @@ I'm also a founding member of the [Webmaster Backup Alliance](https://webmasterb
 
 ### 👨‍💻 Latest Posts
 <!-- blog starts -->
+- [Toshi III](https://mwender.com/toshi-iii/)
 - [PeoplePerHour.com – Find Great Freelancers](https://mwender.com/peopleperhour-com-find-great-freelancers/)
 - [When WordPress says “nope” to ~500,000 images](https://mwender.com/when-wordpress-says-nope-to-500000-images/)
 - [How to Name Your Files (2025 Edition)](https://mwender.com/how-to-name-your-files-2025-edition/)
 - [How to Hard-Refresh Your Browser (2025 Edition)](https://mwender.com/how-to-hard-refresh-your-browser-2025-edition/)
-- [LocalDev Switcher Plugin](https://mwender.com/localdev-switcher-plugin/)
 <!-- blog ends -->
 
 More on [mwender.com](https://mwender.com).
