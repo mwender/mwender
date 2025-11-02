@@ -6,8 +6,8 @@ I'm also a founding member of the [Webmaster Backup Alliance](https://webmasterb
 
 ### 📷 Latest Photo
 <!-- photo starts -->
-<a href="https://photos.mwender.com/post/lydias-periwinkle/"><img src="https://photos.mwender.com/app/uploads/2025/11/img_9286-800x600.jpg" alt="Lydia’s Periwinkle" width="400" height="300" /></a>
-<p><a href="https://photos.mwender.com/post/lydias-periwinkle/">Lydia’s Periwinkle – 11/01/2025</a></p>
+<a href="https://photos.mwender.com/post/indian-boundary-visit/"><img src="https://photos.mwender.com/app/uploads/2025/11/img_9304-800x600.jpg" alt="Indian Boundary Visit" width="400" height="300" /></a>
+<p><a href="https://photos.mwender.com/post/indian-boundary-visit/">Indian Boundary Visit – 11/02/2025</a></p>
 <!-- photo ends -->
 
 </td><td valign="top" width="50%">
