@@ -14,11 +14,11 @@ I'm also a founding member of the [Webmaster Backup Alliance](https://webmasterb
 
 ### 👨‍💻 Latest Posts
 <!-- blog starts -->
+- [Books – 2026](https://mwender.com/books-2026/)
 - [WHMCS Client Search for Raycast](https://mwender.com/whmcs-client-search-for-raycast/)
 - [New Profile Photo](https://mwender.com/new-profile-photo/)
 - [My Raycast Wrapped 2025](https://mwender.com/my-raycast-wrapped-2025/)
 - [Toshi III](https://mwender.com/toshi-iii/)
-- [PeoplePerHour.com – Find Great Freelancers](https://mwender.com/peopleperhour-com-find-great-freelancers/)
 <!-- blog ends -->
 
 More on [mwender.com](https://mwender.com).
