@@ -14,11 +14,11 @@ I'm also a founding member of the [Webmaster Backup Alliance](https://webmasterb
 
 ### 👨‍💻 Latest Posts
 <!-- blog starts -->
+- [Patrick O’Hearn, New Drop! – Hellenistic Spa](https://mwender.com/patrick-ohearn-new-drop-hellenistic-spa/)
 - [Breaking the Zimmermann Telegram](https://mwender.com/breaking-the-zimmermann-telegram/)
 - [Fridays Off](https://mwender.com/fridays-off/)
 - [Trusting How Things Feel – Thoughts on Vibe](https://mwender.com/trusting-how-things-feel-thoughts-on-vibe/)
 - [Books – 2026](https://mwender.com/books-2026/)
-- [WHMCS Client Search for Raycast](https://mwender.com/whmcs-client-search-for-raycast/)
 <!-- blog ends -->
 
 More on [mwender.com](https://mwender.com).
