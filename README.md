@@ -6,19 +6,19 @@ I'm also a founding member of the [Webmaster Backup Alliance](https://webmasterb
 
 ### 📷 Latest Photo
 <!-- photo starts -->
-<a href="https://photos.mwender.com/post/new-home-for-my-clawdbot/"><img src="https://photos.mwender.com/app/uploads/2026/01/img_9569-800x600.jpg" alt="New Home for My Clawdbot" width="400" height="300" /></a>
-<p><a href="https://photos.mwender.com/post/new-home-for-my-clawdbot/">New Home for My Clawdbot – 01/26/2026</a></p>
+<a href="https://photos.mwender.com/post/molted/"><img src="https://photos.mwender.com/app/uploads/2026/01/mac-mini-lobster-800x600.webp" alt="Molted!" width="400" height="300" /></a>
+<p><a href="https://photos.mwender.com/post/molted/">Molted! – 01/30/2026</a></p>
 <!-- photo ends -->
 
 </td><td valign="top" width="50%">
 
 ### 👨‍💻 Latest Posts
 <!-- blog starts -->
+- [Molted](https://mwender.com/molted/)
 - [Patrick O’Hearn, New Drop! – Hellenistic Spa](https://mwender.com/patrick-ohearn-new-drop-hellenistic-spa/)
 - [Breaking the Zimmermann Telegram](https://mwender.com/breaking-the-zimmermann-telegram/)
 - [Fridays Off](https://mwender.com/fridays-off/)
 - [Trusting How Things Feel – Thoughts on Vibe](https://mwender.com/trusting-how-things-feel-thoughts-on-vibe/)
-- [Books – 2026](https://mwender.com/books-2026/)
 <!-- blog ends -->
 
 More on [mwender.com](https://mwender.com).
