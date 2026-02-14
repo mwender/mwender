@@ -14,11 +14,7 @@ I'm also a founding member of the [Webmaster Backup Alliance](https://webmasterb
 
 ### 👨‍💻 Latest Posts
 <!-- blog starts -->
-- [Molted](https://mwender.com/molted/)
-- [Patrick O’Hearn, New Drop! – Hellenistic Spa](https://mwender.com/patrick-ohearn-new-drop-hellenistic-spa/)
-- [Breaking the Zimmermann Telegram](https://mwender.com/breaking-the-zimmermann-telegram/)
-- [Fridays Off](https://mwender.com/fridays-off/)
-- [Trusting How Things Feel – Thoughts on Vibe](https://mwender.com/trusting-how-things-feel-thoughts-on-vibe/)
+
 <!-- blog ends -->
 
 More on [mwender.com](https://mwender.com).
