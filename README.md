@@ -6,8 +6,8 @@ I'm also a founding member of the [Webmaster Backup Alliance](https://webmasterb
 
 ### 📷 Latest Photo
 <!-- photo starts -->
-<a href="https://photos.mwender.com/post/jeremiahs-is-back/"><img src="https://photos.mwender.com/app/uploads/2026/04/img_9725-800x600.jpg" alt="Jeremiah’s is Back!" width="400" height="300" /></a>
-<p><a href="https://photos.mwender.com/post/jeremiahs-is-back/">Jeremiah’s is Back! – 04/08/2026</a></p>
+<a href="https://photos.mwender.com/post/a-life-well-lived/"><img src="https://photos.mwender.com/app/uploads/2026/04/img_9727-800x600.jpg" alt="A Life Well Lived" width="400" height="300" /></a>
+<p><a href="https://photos.mwender.com/post/a-life-well-lived/">A Life Well Lived – 04/10/2026</a></p>
 <!-- photo ends -->
 
 </td><td valign="top" width="50%">
