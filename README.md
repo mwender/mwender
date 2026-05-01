@@ -6,8 +6,8 @@ I'm also a founding member of the [Webmaster Backup Alliance](https://webmasterb
 
 ### 📷 Latest Photo
 <!-- photo starts -->
-<a href="https://photos.mwender.com/post/a-dream-come-true/"><img src="https://photos.mwender.com/app/uploads/2026/04/img_9815-800x600.jpg" alt="A Dream Come True" width="400" height="300" /></a>
-<p><a href="https://photos.mwender.com/post/a-dream-come-true/">A Dream Come True – 04/27/2026</a></p>
+<a href="https://photos.mwender.com/post/first-friday-fools-may-2026-edition/"><img src="https://photos.mwender.com/app/uploads/2026/05/img_9826-800x600.jpg" alt="First Friday Fools, May 2026 Edition" width="400" height="300" /></a>
+<p><a href="https://photos.mwender.com/post/first-friday-fools-may-2026-edition/">First Friday Fools, May 2026 Edition – 05/01/2026</a></p>
 <!-- photo ends -->
 
 </td><td valign="top" width="50%">
