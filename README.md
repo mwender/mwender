@@ -6,8 +6,8 @@ I'm also a founding member of the [Webmaster Backup Alliance](https://webmasterb
 
 ### 📷 Latest Photo
 <!-- photo starts -->
-<a href="https://photos.mwender.com/post/out-to-sea/"><img src="https://photos.mwender.com/app/uploads/2026/07/img_0254-800x600.jpg" alt="Out to Sea" width="400" height="300" /></a>
-<p><a href="https://photos.mwender.com/post/out-to-sea/">Out to Sea – 07/18/2026</a></p>
+<a href="https://photos.mwender.com/post/passing-the-vab/"><img src="https://photos.mwender.com/app/uploads/2026/07/img_0287-800x600.jpg" alt="Passing the VAB" width="400" height="300" /></a>
+<p><a href="https://photos.mwender.com/post/passing-the-vab/">Passing the VAB – 07/20/2026</a></p>
 <!-- photo ends -->
 
 </td><td valign="top" width="50%">
