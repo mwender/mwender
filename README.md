@@ -6,8 +6,8 @@ I'm also a founding member of the [Webmaster Backup Alliance](https://webmasterb
 
 ### 📷 Latest Photo
 <!-- photo starts -->
-<a href="https://photos.mwender.com/post/space-shuttle-atlantis/"><img src="https://photos.mwender.com/app/uploads/2026/07/img_0298-800x600.jpg" alt="Space Shuttle Atlantis" width="400" height="300" /></a>
-<p><a href="https://photos.mwender.com/post/space-shuttle-atlantis/">Space Shuttle Atlantis – 07/20/2026</a></p>
+<a href="https://photos.mwender.com/post/had-to-try/"><img src="https://photos.mwender.com/app/uploads/2026/07/img_0307-800x600.jpg" alt="Had to try" width="400" height="300" /></a>
+<p><a href="https://photos.mwender.com/post/had-to-try/">Had to try – 07/21/2026</a></p>
 <!-- photo ends -->
 
 </td><td valign="top" width="50%">
