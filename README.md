@@ -14,11 +14,11 @@ I'm also a founding member of the [Webmaster Backup Alliance](https://webmasterb
 
 ### 👨‍💻 Latest Posts
 <!-- blog starts -->
+- [Two-Way Comms with Claude + Basecamp](https://mwender.com/two-way-comms-with-claude-and-basecamp/)
 - [We Let Claude Edit Our Podcast](https://mwender.com/we-let-claude-edit-our-podcast/)
 - [From the Big Screens to the Small Screen](https://mwender.com/from-the-big-screens-to-the-small-screen/)
 - [#devnotes – This Moment in AI](https://mwender.com/devnotes-this-moment-in-ai/)
 - [SpinupTUI – Manage your SpinupWP Fleet](https://mwender.com/spinuptui-manage-your-spinupwp-fleet/)
-- [RefreshYourCache.org](https://mwender.com/refreshyourcache-org/)
 <!-- blog ends -->
 
 More on [mwender.com](https://mwender.com).
